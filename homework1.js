@@ -35,3 +35,4 @@ if(isOdd(2)){
 // 10. write a function that takes a number and uses a ternary to return if the number is odd or even.
 // 11. Write a function that prints all  numbers from 0 – 10
 
+// make some do of questions... 
